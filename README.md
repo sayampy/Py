@@ -4,5 +4,15 @@ i made it for easy my work.
 
 <h2>Installation</h2>
 <code>
-pip install pass
+pip install git+https://github.com/sayampy/Py
 </code>
+<b> Or download this repo then run this command-- </b>
+<code>
+pip install .
+</code> from this folder.
+
+## Uses--
+`py` == `python`
+<br>`py [FILE NAME]` == `python [FILE NAME]`
+
+<br><footer>little easy the work</footer>
