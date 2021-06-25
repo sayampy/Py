@@ -4,7 +4,7 @@ i made it for easy my work.
 
 <h2>Installation</h2>
 <code>
-pip install git+https://github.com/sayampy/Py
+pip install git+https://github.com/sayampy/Py/Py
 </code>
 <br><b> Or download this repo then run this command-- </b>
 <br><code>
