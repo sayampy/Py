@@ -17,4 +17,4 @@ pip install .
 
 <h3><a href="https://github.com/sayampy/Py/issues">Issue</a></h3>
 
-<br><footer>little easy the work</footer>
+##### <br>little easy the work
