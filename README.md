@@ -9,7 +9,7 @@ pip install git+https://github.com/sayampy/Py
 <br><b> Or download this repo then run this command-- </b>
 <br><code>
 pip install .
-</code> from this folder.
+</code> from the folder.
 
 ## Uses--
 `py` == `python`
