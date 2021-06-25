@@ -6,8 +6,8 @@ i made it for easy my work.
 <code>
 pip install git+https://github.com/sayampy/Py
 </code>
-<b> Or download this repo then run this command-- </b>
-<code>
+<br><b> Or download this repo then run this command-- </b>
+<br><code>
 pip install .
 </code> from this folder.
 
