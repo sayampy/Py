@@ -15,4 +15,6 @@ pip install .
 `py` == `python`
 <br>`py [FILE NAME]` == `python [FILE NAME]`
 
+<h3><a href="https://github.com/sayampy/Py/issues">Issue</a></h3>
+
 <br><footer>little easy the work</footer>
