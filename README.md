@@ -3,13 +3,14 @@ Just short of <b>python</b>
 i made it for easy my work.
 
 <h2>Installation</h2>
-<code>
+<a href="https://pypi.org/project/py-srt/0.1/"><code>
+pip install py-srt==0.1
+</code>
+</a>
+<br>Or
+<br><code>
 pip install git+https://github.com/sayampy/Py/
 </code>
-<br><b> Or download this repo then run this command-- </b>
-<br><code>
-pip install .
-</code> from the folder.
 
 ## Uses--
 `py` == `python`
